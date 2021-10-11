@@ -1,7 +1,7 @@
 # SharpsFront
 
 ## a content suggestion software 
-## the project is in branch develop . 
+### the project is in branch develop . 
 
 based on user previous choices with a machine learning model . 
 
